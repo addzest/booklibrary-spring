@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/booklibary-spring-service/booklibary-spring-service.iml" filepath="$PROJECT_DIR$/booklibary-spring-service/booklibary-spring-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booklibrary-spring.iml" filepath="$PROJECT_DIR$/booklibrary-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booklibrary-spring-webapp/booklibrary-spring-webapp.iml" filepath="$PROJECT_DIR$/booklibrary-spring-webapp/booklibrary-spring-webapp.iml" />
+    </modules>
+  </component>
+</project>
